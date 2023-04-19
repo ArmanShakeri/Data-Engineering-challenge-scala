@@ -1,0 +1,505 @@
+[ {
+  "app_id" : 33,
+  "country_code" : "US",
+  "impressions" : 12,
+  "clicks" : 1,
+  "revenue" : 1.8534789639020717
+}, {
+  "app_id" : 4,
+  "country_code" : "UK",
+  "impressions" : 18,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 27,
+  "country_code" : "IT",
+  "impressions" : 33,
+  "clicks" : 1,
+  "revenue" : 0.5820968985377619
+}, {
+  "app_id" : 11,
+  "country_code" : "US",
+  "impressions" : 9,
+  "clicks" : 1,
+  "revenue" : 1.7850731637876602
+}, {
+  "app_id" : 29,
+  "country_code" : "null",
+  "impressions" : 24,
+  "clicks" : 2,
+  "revenue" : 3.6607161305123017
+}, {
+  "app_id" : 29,
+  "country_code" : "",
+  "impressions" : 14,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 38,
+  "country_code" : "IT",
+  "impressions" : 68,
+  "clicks" : 2,
+  "revenue" : 2.5965094550715007
+}, {
+  "app_id" : 5,
+  "country_code" : "null",
+  "impressions" : 15,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 30,
+  "country_code" : "DE",
+  "impressions" : 11,
+  "clicks" : 2,
+  "revenue" : 4.58964392598506
+}, {
+  "app_id" : 22,
+  "country_code" : "IT",
+  "impressions" : 38,
+  "clicks" : 3,
+  "revenue" : 7.9703557320512886
+}, {
+  "app_id" : 5,
+  "country_code" : "DE",
+  "impressions" : 21,
+  "clicks" : 1,
+  "revenue" : 0.7887114626004254
+}, {
+  "app_id" : 20,
+  "country_code" : "IT",
+  "impressions" : 3,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 34,
+  "country_code" : "",
+  "impressions" : 19,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 34,
+  "country_code" : "null",
+  "impressions" : 25,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 27,
+  "country_code" : "null",
+  "impressions" : 15,
+  "clicks" : 1,
+  "revenue" : 2.7308513459262533
+}, {
+  "app_id" : 9,
+  "country_code" : "",
+  "impressions" : 21,
+  "clicks" : 1,
+  "revenue" : 2.012664691281706
+}, {
+  "app_id" : 9,
+  "country_code" : "null",
+  "impressions" : 4,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 0,
+  "country_code" : "",
+  "impressions" : 4,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 14,
+  "country_code" : "US",
+  "impressions" : 8,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 35,
+  "country_code" : "US",
+  "impressions" : 10,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 4,
+  "country_code" : "",
+  "impressions" : 17,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 29,
+  "country_code" : "DE",
+  "impressions" : 1,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 15,
+  "country_code" : "US",
+  "impressions" : 25,
+  "clicks" : 1,
+  "revenue" : 2.1352439722841217
+}, {
+  "app_id" : 13,
+  "country_code" : "",
+  "impressions" : 23,
+  "clicks" : 1,
+  "revenue" : 1.0634141002481379
+}, {
+  "app_id" : 7,
+  "country_code" : "DE",
+  "impressions" : 32,
+  "clicks" : 1,
+  "revenue" : 0.3566235732476115
+}, {
+  "app_id" : 30,
+  "country_code" : "US",
+  "impressions" : 60,
+  "clicks" : 6,
+  "revenue" : 5.911653752697605
+}, {
+  "app_id" : 16,
+  "country_code" : "US",
+  "impressions" : 24,
+  "clicks" : 3,
+  "revenue" : 4.983314683686775
+}, {
+  "app_id" : 15,
+  "country_code" : "",
+  "impressions" : 38,
+  "clicks" : 1,
+  "revenue" : 1.6718245743726523
+}, {
+  "app_id" : 35,
+  "country_code" : "IT",
+  "impressions" : 29,
+  "clicks" : 1,
+  "revenue" : 0.24294155968937495
+}, {
+  "app_id" : 2,
+  "country_code" : "",
+  "impressions" : 31,
+  "clicks" : 2,
+  "revenue" : 2.5103764894988396
+}, {
+  "app_id" : 6,
+  "country_code" : "US",
+  "impressions" : 19,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 3,
+  "country_code" : "null",
+  "impressions" : 16,
+  "clicks" : 1,
+  "revenue" : 2.6136442634380566
+}, {
+  "app_id" : 13,
+  "country_code" : "DE",
+  "impressions" : 22,
+  "clicks" : 1,
+  "revenue" : 0.46322370274843294
+}, {
+  "app_id" : 16,
+  "country_code" : "UK",
+  "impressions" : 18,
+  "clicks" : 4,
+  "revenue" : 7.016602982661872
+}, {
+  "app_id" : 19,
+  "country_code" : "DE",
+  "impressions" : 28,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 19,
+  "country_code" : "US",
+  "impressions" : 3,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 40,
+  "country_code" : "US",
+  "impressions" : 51,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 13,
+  "country_code" : "US",
+  "impressions" : 33,
+  "clicks" : 2,
+  "revenue" : 2.6056709982975317
+}, {
+  "app_id" : 25,
+  "country_code" : "",
+  "impressions" : 27,
+  "clicks" : 1,
+  "revenue" : 2.1539865559448788
+}, {
+  "app_id" : 28,
+  "country_code" : "US",
+  "impressions" : 38,
+  "clicks" : 4,
+  "revenue" : 8.327080257719407
+}, {
+  "app_id" : 20,
+  "country_code" : "",
+  "impressions" : 22,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 24,
+  "country_code" : "",
+  "impressions" : 37,
+  "clicks" : 1,
+  "revenue" : 0.10522334895198328
+}, {
+  "app_id" : 34,
+  "country_code" : "IT",
+  "impressions" : 26,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 26,
+  "country_code" : "US",
+  "impressions" : 20,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 30,
+  "country_code" : "",
+  "impressions" : 15,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 30,
+  "country_code" : "null",
+  "impressions" : 31,
+  "clicks" : 2,
+  "revenue" : 2.123201269043838
+}, {
+  "app_id" : 33,
+  "country_code" : "null",
+  "impressions" : 51,
+  "clicks" : 4,
+  "revenue" : 2.277710204463634
+}, {
+  "app_id" : 6,
+  "country_code" : "DE",
+  "impressions" : 2,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 38,
+  "country_code" : "",
+  "impressions" : 20,
+  "clicks" : 1,
+  "revenue" : 1.8015455267890215
+}, {
+  "app_id" : 18,
+  "country_code" : "DE",
+  "impressions" : 16,
+  "clicks" : 1,
+  "revenue" : 0.3882000126616689
+}, {
+  "app_id" : 0,
+  "country_code" : "IT",
+  "impressions" : 8,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 34,
+  "country_code" : "DE",
+  "impressions" : 34,
+  "clicks" : 2,
+  "revenue" : 3.698559430302519
+}, {
+  "app_id" : 12,
+  "country_code" : "IT",
+  "impressions" : 21,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 26,
+  "country_code" : "DE",
+  "impressions" : 28,
+  "clicks" : 1,
+  "revenue" : 1.5881180469456961
+}, {
+  "app_id" : 36,
+  "country_code" : "null",
+  "impressions" : 34,
+  "clicks" : 1,
+  "revenue" : 0.9545479001418805
+}, {
+  "app_id" : 28,
+  "country_code" : "null",
+  "impressions" : 69,
+  "clicks" : 6,
+  "revenue" : 6.428984961873307
+}, {
+  "app_id" : 21,
+  "country_code" : "IT",
+  "impressions" : 30,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 7,
+  "country_code" : "IT",
+  "impressions" : 48,
+  "clicks" : 1,
+  "revenue" : 0.934816649199471
+}, {
+  "app_id" : 9,
+  "country_code" : "IT",
+  "impressions" : 28,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 19,
+  "country_code" : "UK",
+  "impressions" : 30,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 18,
+  "country_code" : "IT",
+  "impressions" : 23,
+  "clicks" : 1,
+  "revenue" : 2.88042276972951
+}, {
+  "app_id" : 1,
+  "country_code" : "IT",
+  "impressions" : 21,
+  "clicks" : 1,
+  "revenue" : 2.2900304644494436
+}, {
+  "app_id" : 10,
+  "country_code" : "US",
+  "impressions" : 22,
+  "clicks" : 2,
+  "revenue" : 1.3485013828719363
+}, {
+  "app_id" : 5,
+  "country_code" : "IT",
+  "impressions" : 16,
+  "clicks" : 2,
+  "revenue" : 5.136533810360039
+}, {
+  "app_id" : 24,
+  "country_code" : "UK",
+  "impressions" : 32,
+  "clicks" : 2,
+  "revenue" : 3.4324553029674316
+}, {
+  "app_id" : 10,
+  "country_code" : "DE",
+  "impressions" : 16,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 32,
+  "country_code" : "DE",
+  "impressions" : 14,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 8,
+  "country_code" : "DE",
+  "impressions" : 13,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 23,
+  "country_code" : "US",
+  "impressions" : 42,
+  "clicks" : 3,
+  "revenue" : 4.550724600305939
+}, {
+  "app_id" : 22,
+  "country_code" : "DE",
+  "impressions" : 26,
+  "clicks" : 2,
+  "revenue" : 4.960972440042899
+}, {
+  "app_id" : 19,
+  "country_code" : "",
+  "impressions" : 13,
+  "clicks" : 1,
+  "revenue" : 1.3225157276596595
+}, {
+  "app_id" : 18,
+  "country_code" : "null",
+  "impressions" : 36,
+  "clicks" : 2,
+  "revenue" : 2.7300254208815575
+}, {
+  "app_id" : 4,
+  "country_code" : "IT",
+  "impressions" : 23,
+  "clicks" : 2,
+  "revenue" : 4.425384428557671
+}, {
+  "app_id" : 32,
+  "country_code" : "UK",
+  "impressions" : 15,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 5,
+  "country_code" : "US",
+  "impressions" : 29,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 40,
+  "country_code" : "DE",
+  "impressions" : 58,
+  "clicks" : 4,
+  "revenue" : 5.879892129996195
+}, {
+  "app_id" : 6,
+  "country_code" : "",
+  "impressions" : 59,
+  "clicks" : 2,
+  "revenue" : 2.77440087564303
+}, {
+  "app_id" : 9,
+  "country_code" : "US",
+  "impressions" : 29,
+  "clicks" : 2,
+  "revenue" : 2.7898515201279794
+}, {
+  "app_id" : 14,
+  "country_code" : "UK",
+  "impressions" : 18,
+  "clicks" : 1,
+  "revenue" : 2.345113915728606
+}, {
+  "app_id" : 39,
+  "country_code" : "US",
+  "impressions" : 13,
+  "clicks" : 1,
+  "revenue" : 1.319780897610233
+}, {
+  "app_id" : 25,
+  "country_code" : "UK",
+  "impressions" : 18,
+  "clicks" : 1,
+  "revenue" : 1.8493484682417043
+}, {
+  "app_id" : 21,
+  "country_code" : "null",
+  "impressions" : 10,
+  "clicks" : 0,
+  "revenue" : 0.0
+}, {
+  "app_id" : 21,
+  "country_code" : "DE",
+  "impressions" : 14,
+  "clicks" : 2,
+  "revenue" : 1.1724448243238788
+}, {
+  "app_id" : 7,
+  "country_code" : "null",
+  "impressions" : 6,
+  "clicks" : 0,
+  "revenue" : 0.0
+} ]

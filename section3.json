@@ -1,0 +1,357 @@
+[
+             {
+               "app_id": 33,
+               "country_code": "US",
+               "recommended_advertiser_ids": [11]
+             }
+           ,
+
+             {
+               "app_id": 27,
+               "country_code": "IT",
+               "recommended_advertiser_ids": [14]
+             }
+           ,
+
+             {
+               "app_id": 11,
+               "country_code": "US",
+               "recommended_advertiser_ids": [18]
+             }
+           ,
+
+             {
+               "app_id": 29,
+               "country_code": "null",
+               "recommended_advertiser_ids": [14]
+             }
+           ,
+
+             {
+               "app_id": 38,
+               "country_code": "IT",
+               "recommended_advertiser_ids": [10]
+             }
+           ,
+
+             {
+               "app_id": 30,
+               "country_code": "DE",
+               "recommended_advertiser_ids": [27]
+             }
+           ,
+
+             {
+               "app_id": 22,
+               "country_code": "IT",
+               "recommended_advertiser_ids": [20]
+             }
+           ,
+
+             {
+               "app_id": 5,
+               "country_code": "DE",
+               "recommended_advertiser_ids": [21]
+             }
+           ,
+
+             {
+               "app_id": 27,
+               "country_code": "null",
+               "recommended_advertiser_ids": [12]
+             }
+           ,
+
+             {
+               "app_id": 9,
+               "country_code": "",
+               "recommended_advertiser_ids": [32]
+             }
+           ,
+
+             {
+               "app_id": 15,
+               "country_code": "US",
+               "recommended_advertiser_ids": [34]
+             }
+           ,
+
+             {
+               "app_id": 13,
+               "country_code": "",
+               "recommended_advertiser_ids": [23]
+             }
+           ,
+
+             {
+               "app_id": 7,
+               "country_code": "DE",
+               "recommended_advertiser_ids": [20]
+             }
+           ,
+
+             {
+               "app_id": 30,
+               "country_code": "US",
+               "recommended_advertiser_ids": [9, 28]
+             }
+           ,
+
+             {
+               "app_id": 16,
+               "country_code": "US",
+               "recommended_advertiser_ids": [7]
+             }
+           ,
+
+             {
+               "app_id": 15,
+               "country_code": "",
+               "recommended_advertiser_ids": [27]
+             }
+           ,
+
+             {
+               "app_id": 35,
+               "country_code": "IT",
+               "recommended_advertiser_ids": [33]
+             }
+           ,
+
+             {
+               "app_id": 2,
+               "country_code": "",
+               "recommended_advertiser_ids": [7]
+             }
+           ,
+
+             {
+               "app_id": 3,
+               "country_code": "null",
+               "recommended_advertiser_ids": [19]
+             }
+           ,
+
+             {
+               "app_id": 13,
+               "country_code": "DE",
+               "recommended_advertiser_ids": [10]
+             }
+           ,
+
+             {
+               "app_id": 16,
+               "country_code": "UK",
+               "recommended_advertiser_ids": [17]
+             }
+           ,
+
+             {
+               "app_id": 13,
+               "country_code": "US",
+               "recommended_advertiser_ids": [12]
+             }
+           ,
+
+             {
+               "app_id": 25,
+               "country_code": "",
+               "recommended_advertiser_ids": [12]
+             }
+           ,
+
+             {
+               "app_id": 28,
+               "country_code": "US",
+               "recommended_advertiser_ids": [29]
+             }
+           ,
+
+             {
+               "app_id": 24,
+               "country_code": "",
+               "recommended_advertiser_ids": [27]
+             }
+           ,
+
+             {
+               "app_id": 30,
+               "country_code": "null",
+               "recommended_advertiser_ids": [17]
+             }
+           ,
+
+             {
+               "app_id": 33,
+               "country_code": "null",
+               "recommended_advertiser_ids": [10, 27]
+             }
+           ,
+
+             {
+               "app_id": 38,
+               "country_code": "",
+               "recommended_advertiser_ids": [7]
+             }
+           ,
+
+             {
+               "app_id": 18,
+               "country_code": "DE",
+               "recommended_advertiser_ids": [10]
+             }
+           ,
+
+             {
+               "app_id": 34,
+               "country_code": "DE",
+               "recommended_advertiser_ids": [28]
+             }
+           ,
+
+             {
+               "app_id": 26,
+               "country_code": "DE",
+               "recommended_advertiser_ids": [16]
+             }
+           ,
+
+             {
+               "app_id": 36,
+               "country_code": "null",
+               "recommended_advertiser_ids": [19]
+             }
+           ,
+
+             {
+               "app_id": 28,
+               "country_code": "null",
+               "recommended_advertiser_ids": [16, 22]
+             }
+           ,
+
+             {
+               "app_id": 7,
+               "country_code": "IT",
+               "recommended_advertiser_ids": [6]
+             }
+           ,
+
+             {
+               "app_id": 18,
+               "country_code": "IT",
+               "recommended_advertiser_ids": [16]
+             }
+           ,
+
+             {
+               "app_id": 1,
+               "country_code": "IT",
+               "recommended_advertiser_ids": [7]
+             }
+           ,
+
+             {
+               "app_id": 10,
+               "country_code": "US",
+               "recommended_advertiser_ids": [22]
+             }
+           ,
+
+             {
+               "app_id": 5,
+               "country_code": "IT",
+               "recommended_advertiser_ids": [12]
+             }
+           ,
+
+             {
+               "app_id": 24,
+               "country_code": "UK",
+               "recommended_advertiser_ids": [19]
+             }
+           ,
+
+             {
+               "app_id": 23,
+               "country_code": "US",
+               "recommended_advertiser_ids": [17, 10]
+             }
+           ,
+
+             {
+               "app_id": 22,
+               "country_code": "DE",
+               "recommended_advertiser_ids": [20]
+             }
+           ,
+
+             {
+               "app_id": 19,
+               "country_code": "",
+               "recommended_advertiser_ids": [14]
+             }
+           ,
+
+             {
+               "app_id": 18,
+               "country_code": "null",
+               "recommended_advertiser_ids": [17]
+             }
+           ,
+
+             {
+               "app_id": 4,
+               "country_code": "IT",
+               "recommended_advertiser_ids": [15]
+             }
+           ,
+
+             {
+               "app_id": 40,
+               "country_code": "DE",
+               "recommended_advertiser_ids": [14, 30]
+             }
+           ,
+
+             {
+               "app_id": 6,
+               "country_code": "",
+               "recommended_advertiser_ids": [13]
+             }
+           ,
+
+             {
+               "app_id": 9,
+               "country_code": "US",
+               "recommended_advertiser_ids": [8]
+             }
+           ,
+
+             {
+               "app_id": 14,
+               "country_code": "UK",
+               "recommended_advertiser_ids": [10]
+             }
+           ,
+
+             {
+               "app_id": 39,
+               "country_code": "US",
+               "recommended_advertiser_ids": [5]
+             }
+           ,
+
+             {
+               "app_id": 25,
+               "country_code": "UK",
+               "recommended_advertiser_ids": [11]
+             }
+           ,
+
+             {
+               "app_id": 21,
+               "country_code": "DE",
+               "recommended_advertiser_ids": [22]
+             }
+           ]
